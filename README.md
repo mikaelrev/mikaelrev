@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on
+
+I'm currently learning React https://img.shields.io/badge/LinkedIn-blue
