@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## About me
+### About me
 
 I'm a front-end developer student, looking to learn as much as I can.
 
