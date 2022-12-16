@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## About me
+
+I'm a front-end developer student, looking to learn as much as I can.
+
 - 🔭 I’m currently working on my portfolio projects
 - 🌱 I’m currently learning React and Redux
 - 💬 Ask me about anything  
